@@ -1,0 +1,10 @@
+     a:link{color: rgb(73, 204, 73);
+    text-decoration: none;}
+    a:hover{color: red;
+    text-decoration: underline;}
+    a:visited{color:gray;
+    text-decoration: underline;}
+    a:active{color:yellow;
+    text-decoration: none;}
+    
+    
